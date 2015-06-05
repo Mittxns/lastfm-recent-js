@@ -1,5 +1,5 @@
 # LastFM Recent JS
-LastFM Recent JS is a Javascript file that accesses the Last.FM API through jQuery and JSON to in order to display recently scrobbled tracks on a user's profile. 
+LastFM Recent JS is a Javascript file that accesses the Last.FM API through jQuery and JSON in order to display recently scrobbled tracks on a user's profile. 
 
 ##Dependencies
 
